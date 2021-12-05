@@ -1,0 +1,64 @@
+05-Dec-2021 16:06:25.954 INFO [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+05-Dec-2021 16:06:25.954 INFO [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: init: Global resources are available
+05-Dec-2021 16:06:25.960 INFO [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/MovieRecommender'
+05-Dec-2021 16:06:25.960 INFO [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\mahdi\OneDrive\Bureau\Dev\Univ\Projet MongoDB\apache-tomcat-9.0.54\webapps\MovieRecommender.war
+05-Dec-2021 16:36:40.380 INFO [http-nio-8080-exec-5] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/MovieRecommender'
+05-Dec-2021 16:36:41.463 INFO [http-nio-8080-exec-6] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/MovieRecommender'
+05-Dec-2021 16:36:42.526 INFO [http-nio-8080-exec-6] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/MovieRecommender'
+05-Dec-2021 16:36:42.526 INFO [http-nio-8080-exec-6] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\mahdi\OneDrive\Bureau\Dev\Univ\Projet MongoDB\apache-tomcat-9.0.54\webapps\MovieRecommender.war
+05-Dec-2021 16:53:02.455 INFO [http-nio-8080-exec-12] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/MovieRecommender'
+05-Dec-2021 16:53:03.549 INFO [http-nio-8080-exec-13] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/MovieRecommender'
+05-Dec-2021 16:53:03.549 INFO [http-nio-8080-exec-13] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\mahdi\OneDrive\Bureau\Dev\Univ\Projet MongoDB\apache-tomcat-9.0.54\webapps\MovieRecommender.war
+05-Dec-2021 16:56:10.482 INFO [http-nio-8080-exec-18] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/MovieRecommender'
+05-Dec-2021 16:56:10.482 INFO [http-nio-8080-exec-18] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\mahdi\OneDrive\Bureau\Dev\Univ\Projet MongoDB\apache-tomcat-9.0.54\webapps\MovieRecommender.war
+05-Dec-2021 16:59:57.535 INFO [http-nio-8080-exec-31] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/MovieRecommender'
+05-Dec-2021 16:59:57.535 INFO [http-nio-8080-exec-31] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\mahdi\OneDrive\Bureau\Dev\Univ\Projet MongoDB\apache-tomcat-9.0.54\webapps\MovieRecommender.war
+05-Dec-2021 17:01:37.320 INFO [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+05-Dec-2021 17:01:37.320 INFO [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: init: Global resources are available
+05-Dec-2021 17:01:37.326 INFO [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/MovieRecommender'
+05-Dec-2021 17:01:37.326 INFO [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\mahdi\OneDrive\Bureau\Dev\Univ\Projet MongoDB\apache-tomcat-9.0.54\webapps\MovieRecommender.war
+05-Dec-2021 17:02:13.438 INFO [http-nio-8080-exec-4] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/MovieRecommender'
+05-Dec-2021 17:02:14.529 INFO [http-nio-8080-exec-5] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/MovieRecommender'
+05-Dec-2021 17:02:15.601 INFO [http-nio-8080-exec-6] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/MovieRecommender'
+05-Dec-2021 17:02:16.671 INFO [http-nio-8080-exec-7] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/MovieRecommender'
+05-Dec-2021 17:02:16.671 INFO [http-nio-8080-exec-7] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\mahdi\OneDrive\Bureau\Dev\Univ\Projet MongoDB\apache-tomcat-9.0.54\webapps\MovieRecommender.war
+05-Dec-2021 17:03:18.276 INFO [http-nio-8080-exec-3] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/MovieRecommender'
+05-Dec-2021 17:03:18.277 INFO [http-nio-8080-exec-3] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\mahdi\OneDrive\Bureau\Dev\Univ\Projet MongoDB\apache-tomcat-9.0.54\webapps\MovieRecommender.war
+05-Dec-2021 17:05:57.509 INFO [http-nio-8080-exec-12] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/MovieRecommender'
+05-Dec-2021 17:05:58.616 INFO [http-nio-8080-exec-13] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/MovieRecommender'
+05-Dec-2021 17:05:58.616 INFO [http-nio-8080-exec-13] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\mahdi\OneDrive\Bureau\Dev\Univ\Projet MongoDB\apache-tomcat-9.0.54\webapps\MovieRecommender.war
+05-Dec-2021 17:06:37.500 INFO [http-nio-8080-exec-12] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/MovieRecommender'
+05-Dec-2021 17:06:38.610 INFO [http-nio-8080-exec-7] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/MovieRecommender'
+05-Dec-2021 17:06:38.611 INFO [http-nio-8080-exec-7] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\mahdi\OneDrive\Bureau\Dev\Univ\Projet MongoDB\apache-tomcat-9.0.54\webapps\MovieRecommender.war
+05-Dec-2021 17:16:23.462 INFO [http-nio-8080-exec-21] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/MovieRecommender'
+05-Dec-2021 17:16:23.462 INFO [http-nio-8080-exec-21] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\mahdi\OneDrive\Bureau\Dev\Univ\Projet MongoDB\apache-tomcat-9.0.54\webapps\MovieRecommender.war
+05-Dec-2021 17:16:43.636 INFO [http-nio-8080-exec-20] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/MovieRecommender'
+05-Dec-2021 17:16:43.636 INFO [http-nio-8080-exec-20] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\mahdi\OneDrive\Bureau\Dev\Univ\Projet MongoDB\apache-tomcat-9.0.54\webapps\MovieRecommender.war
+05-Dec-2021 17:17:16.989 INFO [http-nio-8080-exec-28] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/MovieRecommender'
+05-Dec-2021 17:17:16.990 INFO [http-nio-8080-exec-28] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\mahdi\OneDrive\Bureau\Dev\Univ\Projet MongoDB\apache-tomcat-9.0.54\webapps\MovieRecommender.war
+05-Dec-2021 17:29:26.038 INFO [http-nio-8080-exec-34] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/MovieRecommender'
+05-Dec-2021 17:29:26.038 INFO [http-nio-8080-exec-34] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\mahdi\OneDrive\Bureau\Dev\Univ\Projet MongoDB\apache-tomcat-9.0.54\webapps\MovieRecommender.war
+05-Dec-2021 17:37:30.443 INFO [http-nio-8080-exec-42] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/MovieRecommender'
+05-Dec-2021 17:37:31.548 INFO [http-nio-8080-exec-43] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/MovieRecommender'
+05-Dec-2021 17:37:32.640 INFO [http-nio-8080-exec-48] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/MovieRecommender'
+05-Dec-2021 17:37:33.707 INFO [http-nio-8080-exec-41] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/MovieRecommender'
+05-Dec-2021 17:37:33.707 INFO [http-nio-8080-exec-41] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\mahdi\OneDrive\Bureau\Dev\Univ\Projet MongoDB\apache-tomcat-9.0.54\webapps\MovieRecommender.war
+05-Dec-2021 18:16:23.941 INFO [http-nio-8080-exec-53] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/MovieRecommender'
+05-Dec-2021 18:16:25.015 INFO [http-nio-8080-exec-54] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/MovieRecommender'
+05-Dec-2021 18:16:26.098 INFO [http-nio-8080-exec-55] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/MovieRecommender'
+05-Dec-2021 18:16:27.157 INFO [http-nio-8080-exec-52] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/MovieRecommender'
+05-Dec-2021 18:16:27.157 INFO [http-nio-8080-exec-52] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\mahdi\OneDrive\Bureau\Dev\Univ\Projet MongoDB\apache-tomcat-9.0.54\webapps\MovieRecommender.war
+05-Dec-2021 18:29:11.642 INFO [http-nio-8080-exec-64] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/MovieRecommender'
+05-Dec-2021 18:29:11.642 INFO [http-nio-8080-exec-64] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\mahdi\OneDrive\Bureau\Dev\Univ\Projet MongoDB\apache-tomcat-9.0.54\webapps\MovieRecommender.war
+05-Dec-2021 18:33:37.090 INFO [http-nio-8080-exec-71] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/MovieRecommender'
+05-Dec-2021 18:33:38.159 INFO [http-nio-8080-exec-72] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/MovieRecommender'
+05-Dec-2021 18:33:39.217 INFO [http-nio-8080-exec-78] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/MovieRecommender'
+05-Dec-2021 18:33:39.217 INFO [http-nio-8080-exec-78] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\mahdi\OneDrive\Bureau\Dev\Univ\Projet MongoDB\apache-tomcat-9.0.54\webapps\MovieRecommender.war
+05-Dec-2021 18:37:20.172 INFO [http-nio-8080-exec-73] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/MovieRecommender'
+05-Dec-2021 18:37:20.172 INFO [http-nio-8080-exec-73] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\mahdi\OneDrive\Bureau\Dev\Univ\Projet MongoDB\apache-tomcat-9.0.54\webapps\MovieRecommender.war
+05-Dec-2021 20:46:43.058 INFO [http-nio-8080-exec-90] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/MovieRecommender'
+05-Dec-2021 20:46:43.058 INFO [http-nio-8080-exec-90] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\mahdi\OneDrive\Bureau\Dev\Univ\Projet MongoDB\apache-tomcat-9.0.54\webapps\MovieRecommender.war
+05-Dec-2021 20:56:44.932 INFO [http-nio-8080-exec-96] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/MovieRecommender'
+05-Dec-2021 20:56:44.933 INFO [http-nio-8080-exec-96] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\mahdi\OneDrive\Bureau\Dev\Univ\Projet MongoDB\apache-tomcat-9.0.54\webapps\MovieRecommender.war
+05-Dec-2021 22:24:49.721 INFO [http-nio-8080-exec-106] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/MovieRecommender'
+05-Dec-2021 22:24:49.721 INFO [http-nio-8080-exec-106] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\mahdi\OneDrive\Bureau\Dev\Univ\Projet MongoDB\apache-tomcat-9.0.54\webapps\MovieRecommender.war

@@ -1,0 +1,70 @@
+26-Oct-2021 14:19:39.765 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.54
+26-Oct-2021 14:19:39.768 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 28 2021 13:51:49 UTC
+26-Oct-2021 14:19:39.769 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.54.0
+26-Oct-2021 14:19:39.770 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+26-Oct-2021 14:19:39.770 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+26-Oct-2021 14:19:39.770 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+26-Oct-2021 14:19:39.770 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-11.0.11
+26-Oct-2021 14:19:39.771 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           11.0.11+9-LTS-194
+26-Oct-2021 14:19:39.771 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+26-Oct-2021 14:19:39.771 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\mahdi\OneDrive\Bureau\Projet MongoDB\apache-tomcat-9.0.54
+26-Oct-2021 14:19:39.771 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\mahdi\OneDrive\Bureau\Projet MongoDB\apache-tomcat-9.0.54
+26-Oct-2021 14:19:39.783 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+26-Oct-2021 14:19:39.783 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+26-Oct-2021 14:19:39.783 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+26-Oct-2021 14:19:39.783 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+26-Oct-2021 14:19:39.783 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+26-Oct-2021 14:19:39.783 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\mahdi\OneDrive\Bureau\Projet MongoDB\apache-tomcat-9.0.54\conf\logging.properties
+26-Oct-2021 14:19:39.784 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+26-Oct-2021 14:19:39.784 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+26-Oct-2021 14:19:39.785 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+26-Oct-2021 14:19:39.785 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+26-Oct-2021 14:19:39.787 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\mahdi\OneDrive\Bureau\Projet MongoDB\apache-tomcat-9.0.54
+26-Oct-2021 14:19:39.788 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\mahdi\OneDrive\Bureau\Projet MongoDB\apache-tomcat-9.0.54
+26-Oct-2021 14:19:39.788 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\mahdi\OneDrive\Bureau\Projet MongoDB\apache-tomcat-9.0.54\temp
+26-Oct-2021 14:19:39.795 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.31] using APR version [1.7.0].
+26-Oct-2021 14:19:39.796 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+26-Oct-2021 14:19:39.797 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+26-Oct-2021 14:19:39.819 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1l  24 Aug 2021]
+26-Oct-2021 14:19:40.161 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+26-Oct-2021 14:19:40.194 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [675] milliseconds
+26-Oct-2021 14:19:40.268 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+26-Oct-2021 14:19:40.269 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.54]
+26-Oct-2021 14:19:40.294 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\mahdi\OneDrive\Bureau\Projet MongoDB\apache-tomcat-9.0.54\webapps\MovieRecommender.war]
+26-Oct-2021 14:19:42.357 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Oct-2021 14:19:42.537 INFO [main] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization started
+26-Oct-2021 14:19:42.687 INFO [main] org.springframework.web.context.support.XmlWebApplicationContext.prepareRefresh Refreshing Root WebApplicationContext: startup date [Tue Oct 26 14:19:42 CEST 2021]; root of context hierarchy
+26-Oct-2021 14:19:42.836 INFO [main] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+26-Oct-2021 14:19:43.574 WARNING [main] com.mongodb.diagnostics.logging.Loggers.shouldUseSLF4J SLF4J not found on the classpath.  Logging is disabled for the 'org.mongodb.driver' component
+26-Oct-2021 14:19:44.185 INFO [main] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization completed in 1648 ms
+26-Oct-2021 14:19:44.400 WARNING [main] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [212] milliseconds.
+26-Oct-2021 14:19:44.410 INFO [main] org.springframework.web.servlet.DispatcherServlet.initServletBean FrameworkServlet 'dispatcher': initialization started
+26-Oct-2021 14:19:44.415 INFO [main] org.springframework.web.context.support.XmlWebApplicationContext.prepareRefresh Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Tue Oct 26 14:19:44 CEST 2021]; parent: Root WebApplicationContext
+26-Oct-2021 14:19:44.416 INFO [main] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+26-Oct-2021 14:19:44.569 INFO [main] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/recommendations] onto handler 'mainController'
+26-Oct-2021 14:19:44.570 INFO [main] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/recommendations.*] onto handler 'mainController'
+26-Oct-2021 14:19:44.571 INFO [main] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/recommendations/] onto handler 'mainController'
+26-Oct-2021 14:19:44.574 INFO [main] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/movies] onto handler 'mainController'
+26-Oct-2021 14:19:44.575 INFO [main] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/movies.*] onto handler 'mainController'
+26-Oct-2021 14:19:44.575 INFO [main] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/movies/] onto handler 'mainController'
+26-Oct-2021 14:19:44.576 INFO [main] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/movieratings] onto handler 'mainController'
+26-Oct-2021 14:19:44.577 INFO [main] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/movieratings.*] onto handler 'mainController'
+26-Oct-2021 14:19:44.578 INFO [main] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/movieratings/] onto handler 'mainController'
+26-Oct-2021 14:19:44.578 INFO [main] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/hello] onto handler 'mainController'
+26-Oct-2021 14:19:44.578 INFO [main] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/hello.*] onto handler 'mainController'
+26-Oct-2021 14:19:44.579 INFO [main] org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping.registerHandler Mapped URL path [/hello/] onto handler 'mainController'
+26-Oct-2021 14:19:44.715 INFO [main] org.springframework.web.servlet.DispatcherServlet.initServletBean FrameworkServlet 'dispatcher': initialization completed in 304 ms
+26-Oct-2021 14:19:44.727 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\mahdi\OneDrive\Bureau\Projet MongoDB\apache-tomcat-9.0.54\webapps\MovieRecommender.war] has finished in [4,434] ms
+26-Oct-2021 14:19:44.727 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\mahdi\OneDrive\Bureau\Projet MongoDB\apache-tomcat-9.0.54\webapps\docs]
+26-Oct-2021 14:19:44.758 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\mahdi\OneDrive\Bureau\Projet MongoDB\apache-tomcat-9.0.54\webapps\docs] has finished in [31] ms
+26-Oct-2021 14:19:44.759 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\mahdi\OneDrive\Bureau\Projet MongoDB\apache-tomcat-9.0.54\webapps\examples]
+26-Oct-2021 14:19:45.146 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\mahdi\OneDrive\Bureau\Projet MongoDB\apache-tomcat-9.0.54\webapps\examples] has finished in [387] ms
+26-Oct-2021 14:19:45.147 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\mahdi\OneDrive\Bureau\Projet MongoDB\apache-tomcat-9.0.54\webapps\host-manager]
+26-Oct-2021 14:19:45.197 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\mahdi\OneDrive\Bureau\Projet MongoDB\apache-tomcat-9.0.54\webapps\host-manager] has finished in [50] ms
+26-Oct-2021 14:19:45.199 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\mahdi\OneDrive\Bureau\Projet MongoDB\apache-tomcat-9.0.54\webapps\manager]
+26-Oct-2021 14:19:45.243 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\mahdi\OneDrive\Bureau\Projet MongoDB\apache-tomcat-9.0.54\webapps\manager] has finished in [44] ms
+26-Oct-2021 14:19:45.244 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\mahdi\OneDrive\Bureau\Projet MongoDB\apache-tomcat-9.0.54\webapps\ROOT]
+26-Oct-2021 14:19:45.284 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\mahdi\OneDrive\Bureau\Projet MongoDB\apache-tomcat-9.0.54\webapps\ROOT] has finished in [40] ms
+26-Oct-2021 14:19:45.294 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+26-Oct-2021 14:19:45.330 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [5135] milliseconds
+26-Oct-2021 14:30:18.957 WARNING [http-nio-8080-exec-7] org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver.resolveException Resolved [org.springframework.beans.TypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'; nested exception is java.lang.NumberFormatException: For input string: "<USERID>"]

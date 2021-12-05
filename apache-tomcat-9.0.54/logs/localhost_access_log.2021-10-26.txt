@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [26/Oct/2021:14:27:50 +0200] "GET /MovieRecommender HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [26/Oct/2021:14:27:52 +0200] "GET /MovieRecommender/ HTTP/1.1" 200 393
+0:0:0:0:0:0:0:1 - - [26/Oct/2021:14:27:52 +0200] "GET /favicon.ico HTTP/1.1" 200 21630
+0:0:0:0:0:0:0:1 - - [26/Oct/2021:14:27:59 +0200] "GET /MovieRecommender/movies HTTP/1.1" 200 566926
+0:0:0:0:0:0:0:1 - - [26/Oct/2021:14:30:18 +0200] "GET /MovieRecommender/recommendations?user_id=%3cUSERID%3e&processing_mode=%3cPROCESSINGMODE%3e HTTP/1.1" 400 762
+0:0:0:0:0:0:0:1 - - [26/Oct/2021:14:30:30 +0200] "GET /MovieRecommender/recommendations?user_id=6230&processing_mode=1 HTTP/1.1" 200 352
